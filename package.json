@@ -1,0 +1,25 @@
+{
+  "name": "react-revision",
+  "version": "1.0.0",
+  "description": "This is React Revision",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhay-24y/React_Learning.git"
+  },
+  "author": "Abhay Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhay-24y/React_Learning/issues"
+  },
+  "homepage": "https://github.com/abhay-24y/React_Learning#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
